@@ -1,2 +1,4 @@
+3dgs_results/study filter=lfs diff=lfs merge=lfs -text
+postshot_results/study_2MP filter=lfs diff=lfs merge=lfs -text
 3dgs_results/study.ply filter=lfs diff=lfs merge=lfs -text
 postshot_results/study_2MP.psht filter=lfs diff=lfs merge=lfs -text
