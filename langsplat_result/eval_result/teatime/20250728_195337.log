@@ -1,0 +1,5 @@
+2025-07-28 20:05:27,329 - teatime - INFO - trunc thresh: 0.4
+2025-07-28 20:05:27,330 - teatime - INFO - iou chosen: 0.0579
+2025-07-28 20:05:27,332 - teatime - INFO - chosen_lvl: 
+[array(2), array(0), array(0), array(2), array(2), array(0), array(0), array(0), array(2), array(0), array(0), array(2), array(2), array(2), array(1), array(0), array(0), array(0), array(2), array(0), array(0), array(2), array(1), array(2), array(2), array(1), array(1), array(1), array(1), array(1), array(1), array(1), array(2), array(2), array(1), array(2), array(2), array(2), array(2), array(0), array(2), array(2), array(0), array(0), array(0), array(0), array(2), array(0), array(0), array(0), array(1), array(1), array(1), array(0), array(2), array(1), array(1), array(1), array(2)]
+2025-07-28 20:05:27,332 - teatime - INFO - Localization accuracy: 0.1695
